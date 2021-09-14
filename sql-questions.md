@@ -18,7 +18,14 @@
 * [What is DDL, DML and DCL?](#dd)
 * [ What is Index tuning?](#it)
 
-* [ALTER TABLE](#at)
+* [ALTER TABLE](#at)     * [AND](#an)   * [AS](#as)  * [AVG](#av)  * [BETWEEN](#be)  * [COUNT](#co)  * [CREATE TABLE](#ct)  * [DELETE](#de)  * [GROUP BY](#gb)
+
+
+
+
+
+
+
 * [AND](#an)
 * [AS](#as)
 * [AVG](#av)
