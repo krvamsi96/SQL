@@ -18,37 +18,14 @@
 * [What is DDL, DML and DCL?](#dd)
 * [ What is Index tuning?](#it)
 
-* [ALTER TABLE](#at)     * [AND](#an)   * [AS](#as)  * [AVG](#av)  * [BETWEEN](#be)  * [COUNT](#co)  * [CREATE TABLE](#ct)  * [DELETE](#de)  * [GROUP BY](#gb)
+* [ALTER TABLE](#at)    * [AND](#an)   * [AS](#as)  * [AVG](#av)  * [BETWEEN](#be)  * [COUNT](#co)  * [CREATE TABLE](#ct)  * [DELETE](#de)  * [GROUP BY](#gb)
+
+* [INNER JOIN](#ij)    * [INSERT](#in)  * [LIKE](#like)  * [LIMIT](#li)  * [Max](#ma)  * [MIN](#mi)  * [OR](#or)  * [ORDER BY](#ob)  * [OUTER JOIN](#oj)
 
 
+* [ROUND](#ro)   * [SELECT](#se)   * [SELECT DISTINCT](#sd)  * [SUM](#su)  * [UPDATE](#up)  * [WHERE](#wh)
 
 
-
-
-
-* [AND](#an)
-* [AS](#as)
-* [AVG](#av)
-* [BETWEEN](#be)
-* [COUNT](#co)
-* [CREATE TABLE](#ct)
-* [DELETE](#de)
-* [GROUP BY](#gb)
-* [INNER JOIN](#ij)
-* [INSERT](#in)
-* [LIKE](#like)
-* [LIMIT](#li)
-* [Max](#ma)
-* [MIN](#mi)
-* [OR](#or)
-* [ORDER BY](#ob)
-* [OUTER JOIN](#oj)
-* [ROUND](#ro)
-* [SELECT](#se)
-* [SELECT DISTINCT](#sd)
-* [SUM](#su)
-* [UPDATE](#up)
-* [WHERE](#wh)
 
 
 
