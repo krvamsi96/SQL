@@ -476,7 +476,7 @@ WHERE column_name operator value;
 `WHERE` is a clause that indicates you want to filter the result set to include only rows where the following *condition* is true.
 
 
-joins <a name="joins"></br> 
+## joins <a name="joins"></br> 
 
 (INNER) JOIN: Returns records that have matching values in both tables
 LEFT (OUTER) JOIN: Returns all records from the left table, and the matched records from the right table
