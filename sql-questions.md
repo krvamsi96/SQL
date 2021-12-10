@@ -1,3 +1,4 @@
+* [joins](#joins)
 * [What is the difference between base and derived relation? ](#base)
 * [What is the difference between primary and foreign key?](#primary)
 * [What is an index represent in relational database model?](#indexrepresent)
@@ -473,3 +474,19 @@ WHERE column_name operator value;
 ```
 
 `WHERE` is a clause that indicates you want to filter the result set to include only rows where the following *condition* is true.
+
+
+joins <a name="joins"></br> 
+
+(INNER) JOIN: Returns records that have matching values in both tables
+LEFT (OUTER) JOIN: Returns all records from the left table, and the matched records from the right table
+RIGHT (OUTER) JOIN: Returns all records from the right table, and the matched records from the left table
+FULL (OUTER) JOIN: Returns all records when there is a match in either left or right table
+
+
+
+
+
+
+
+
